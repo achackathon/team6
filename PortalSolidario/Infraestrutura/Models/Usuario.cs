@@ -8,7 +8,7 @@ namespace Infraestrutura.Models
 {
     public class Usuario
     {
-        public int id_Usuario { get; set; }
+        public int Id_usuario { get; set; }
         public Perfl Perfil { get; set; }
         public string Nome { get; set; }
         public string Email { get; set; }

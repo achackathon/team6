@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Infraestrutura.Models
 {
-    public class Perfl
+    class Doacao
     {
-        public int Id_perfil { get; set; }
-        public string Descricao { get; set; }
+        public int Id_doacao { get; set; }
+        public string descricao { get; set; }
     }
 }
