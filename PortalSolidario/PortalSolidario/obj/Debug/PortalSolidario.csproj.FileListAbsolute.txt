@@ -133,6 +133,5 @@ C:\Users\joohncruz\Projects\GitHub\team6\PortalSolidario\PortalSolidario\bin\Mic
 C:\Users\joohncruz\Projects\GitHub\team6\PortalSolidario\PortalSolidario\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\joohncruz\Projects\GitHub\team6\PortalSolidario\PortalSolidario\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\joohncruz\Projects\GitHub\team6\PortalSolidario\PortalSolidario\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\joohncruz\Projects\GitHub\team6\PortalSolidario\PortalSolidario\obj\Debug\PortalSolidario.csprojResolveAssemblyReference.cache
 C:\Users\joohncruz\Projects\GitHub\team6\PortalSolidario\PortalSolidario\obj\Debug\PortalSolidario.dll
 C:\Users\joohncruz\Projects\GitHub\team6\PortalSolidario\PortalSolidario\obj\Debug\PortalSolidario.pdb
