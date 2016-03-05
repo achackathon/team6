@@ -124,3 +124,8 @@ C:\Users\joohncruz\Projects\GitHub\team6\PortalSolidario\PortalSolidarioApi.Test
 C:\Users\joohncruz\Projects\GitHub\team6\PortalSolidario\PortalSolidarioApi.Tests\obj\Debug\PortalSolidarioApi.Tests.csprojResolveAssemblyReference.cache
 C:\Users\joohncruz\Projects\GitHub\team6\PortalSolidario\PortalSolidarioApi.Tests\obj\Debug\PortalSolidarioApi.Tests.dll
 C:\Users\joohncruz\Projects\GitHub\team6\PortalSolidario\PortalSolidarioApi.Tests\obj\Debug\PortalSolidarioApi.Tests.pdb
+C:\Users\joohncruz\Projects\GitHub\team6\PortalSolidario\PortalSolidarioApi.Tests\bin\Debug\Infraestructure.dll
+C:\Users\joohncruz\Projects\GitHub\team6\PortalSolidario\PortalSolidarioApi.Tests\bin\Debug\Dapper.dll
+C:\Users\joohncruz\Projects\GitHub\team6\PortalSolidario\PortalSolidarioApi.Tests\bin\Debug\Infraestructure.pdb
+C:\Users\joohncruz\Projects\GitHub\team6\PortalSolidario\PortalSolidarioApi.Tests\bin\Debug\Dapper.pdb
+C:\Users\joohncruz\Projects\GitHub\team6\PortalSolidario\PortalSolidarioApi.Tests\bin\Debug\Dapper.xml
