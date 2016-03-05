@@ -16,6 +16,13 @@
     });
 }
 
+function GetPerfil() {
+    $.get("http://localhost:50429/portalsolidario/perfil/", function (data, status) {
+        console.log(data);
+        console.log(status);
+    });
+}
+
 function GetAddress() {
     
     $.get("http://api.postmon.com.br/v1/cep/" + $("#registerCep").val(), function (data, status) {
@@ -43,5 +50,5 @@ $("#registerCep").blur(
 $("#buttonSubmit").click(
     function() {
         console.log("TRACE: PostUser");
-        PostUser();
+       // PostUser();
     });
