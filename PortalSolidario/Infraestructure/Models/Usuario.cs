@@ -10,8 +10,10 @@ namespace Infraestrutura.Models
     {
         public int Id_usuario { get; set; }
         public Perfil Perfil { get; set; }
+        public int id_perfil { get; set; }
         public string Nome { get; set; }
         public string Email { get; set; }
+        public string Endereco { get; set; }
         public string Cep { get; set; }
         public string Documento { get; set; }
     }
