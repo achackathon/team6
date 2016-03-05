@@ -2,8 +2,9 @@
 
 namespace PortalSolidario.Controllers
 {
-    public class HomeController : Controller
+    public class RegistrarController : Controller
     {
+        // GET: Registrar
         public ActionResult Index()
         {
             return View();
