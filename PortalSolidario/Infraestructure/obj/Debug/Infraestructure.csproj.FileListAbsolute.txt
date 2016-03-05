@@ -1,5 +1,0 @@
-C:\Users\joohncruz\Projects\GitHub\team6\PortalSolidario\Infraestructure\bin\Debug\Infraestructure.dll
-C:\Users\joohncruz\Projects\GitHub\team6\PortalSolidario\Infraestructure\bin\Debug\Infraestructure.pdb
-C:\Users\joohncruz\Projects\GitHub\team6\PortalSolidario\Infraestructure\obj\Debug\Infraestructure.csprojResolveAssemblyReference.cache
-C:\Users\joohncruz\Projects\GitHub\team6\PortalSolidario\Infraestructure\obj\Debug\Infraestructure.dll
-C:\Users\joohncruz\Projects\GitHub\team6\PortalSolidario\Infraestructure\obj\Debug\Infraestructure.pdb
