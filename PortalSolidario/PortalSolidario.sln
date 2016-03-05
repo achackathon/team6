@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortalSolidarioApi", "Porta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortalSolidarioApi.Tests", "PortalSolidarioApi.Tests\PortalSolidarioApi.Tests.csproj", "{966CB22B-F79D-4937-9D38-236B3F86AF0A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infraestructure", "Infraestructure\Infraestructure.csproj", "{7E8F6677-1BB9-4E4A-BCB5-D3F2DB3978CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{966CB22B-F79D-4937-9D38-236B3F86AF0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{966CB22B-F79D-4937-9D38-236B3F86AF0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{966CB22B-F79D-4937-9D38-236B3F86AF0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E8F6677-1BB9-4E4A-BCB5-D3F2DB3978CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E8F6677-1BB9-4E4A-BCB5-D3F2DB3978CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E8F6677-1BB9-4E4A-BCB5-D3F2DB3978CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E8F6677-1BB9-4E4A-BCB5-D3F2DB3978CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
